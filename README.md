@@ -14,6 +14,6 @@ Este jogo foi desenvolvido de acordo com os conteúdos lecionados no âmbito da 
 * Bootstrap
 * JQuery
 
-:round_pushpin: Some icons were free to use - [Flaticon](flaticon.com)
+:warning: Some icons were free to use - [Flaticon](flaticon.com) :warning:
 
-:round_pushpin: Some audios were free to use - [Freesound](freesound.org)
+:warning: Some audios were free to use - [Freesound](freesound.org) :warning:
