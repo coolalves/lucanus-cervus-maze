@@ -16,6 +16,6 @@ Este jogo foi desenvolvido de acordo com os conteúdos lecionados no âmbito da 
 
 
 
-:warning: Some icons were free to use - [Flaticon](flaticon.com) :warning:
+:warning: Some icons were free to use - [Flaticon](https://flaticon.com) :warning:
 
-:warning: Some audios were free to use - [Freesound](freesound.org) :warning:
+:warning: Some audios were free to use - [Freesound](https://freesound.org) :warning:
