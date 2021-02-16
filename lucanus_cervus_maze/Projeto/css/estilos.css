@@ -1,0 +1,238 @@
+
+body {
+    background: #b6cfbd;
+    
+}
+
+main {
+    background-color: rgb(255, 255, 255);
+}
+
+#areadejogo {
+    background-color: #87a892;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: -1;
+}
+
+.pergunta{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 300px;
+    width: 400px;
+    z-index: 1;
+    display: none;
+ }
+
+ .pontuacao{
+    background-color: #395030;
+    position: absolute;
+    width: 324px;
+    margin: auto;
+    margin-top: 32px;
+    margin-left: 15px;
+    height: 11%;
+    font-weight: bold;
+    font-size: larger;
+    padding-left: 15px;
+}
+
+.alinea{
+    font-weight:500;    
+    transition:.6s;
+    border-radius: 15px;
+   
+}
+
+.alinea:hover{
+    background-color: #689658;
+    transition:.5s;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.alinea:active{
+    background-color: #689658;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.vidas{
+    background-color: #395030;
+    position: absolute;
+    width: 324px;
+    margin: auto;
+    margin-top: 32px;
+    margin-left: 15px;
+    height: 11%;
+    font-weight: bold;
+    font-size: larger;
+    padding-left: 15px;
+    top: 14%;   
+ }
+
+ .folhas{
+    position: absolute;
+ }
+
+ #vida1{
+    margin-left: 30px;
+    position: absolute;
+ }
+
+ #vida2{
+    margin-left: 90px;
+    position: absolute;
+ }
+
+ #vida3{
+    margin-left: 150px;
+    position: absolute;
+ }
+
+ .perdeu{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 300px;
+    width: 400px;
+    z-index: 2;
+    display: none;
+    background-color: #326b6e;
+    text-align: center;
+    font-weight: 800;
+    font-size: 45px;
+    border-radius: 15px;
+}
+
+.botoes{
+    padding-top: 25px;
+    
+}
+
+.som{
+    background-color:  #395030;
+    position: absolute;
+    width: 65px;
+    margin: auto;
+    margin-top: 135px;
+    margin-left: 15px;
+    height: 11%;
+    font-weight: bold;
+    font-size: larger;
+    padding-left: 15px;
+    top: 28%;
+}
+
+.tempo{
+    background-color:  #395030;
+    position: absolute;
+    width: 65px;
+    margin: auto;
+    margin-top: 32px;
+    margin-left: 15px;
+    height: 11%;
+    font-weight: bold;
+    font-size: larger;
+    padding-left: 15px;
+    top: 28%; 
+    width: 324px;
+}
+
+.menu{
+    background-color:  #326b6e;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 400px;
+    width: 600px;
+    z-index: 1;
+    display: block;
+    border-radius: 15px;
+}
+
+.instrucoes{
+    background-color:  #326b6e;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 400px;
+    width: 600px;
+    z-index: 0;
+    display: none;
+    border-radius: 15px;
+}
+
+.btn-sm{
+    padding: 15px 25px;
+    font-weight: 800;
+    font-size: 15px;    
+    border-radius: 15px;
+    margin-top: 7px;
+    background-color: #5e6783;
+    border-color: #5e6783;
+    transition: .5s;
+    margin: 10px;
+    z-index: 1;
+}
+
+.btn-sm:hover{
+    background-color: rgb(44, 49, 63);
+    border-color: rgb(94, 103, 131);
+    transition: .5s;
+}
+
+.btn-sm:active{
+    background-color: rgb(44, 49, 63);
+    border-color: rgb(94, 103, 131);
+    transition: .5s;
+}
+
+.btn-sm:focus{
+    background-color: rgb(44, 49, 63);
+    border-color: rgb(94, 103, 131);
+    transition: .5s;
+}
+
+.story{
+    background-color:  #326b6e;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 400px;
+    width: 600px;
+    z-index: 0;
+    display: none;
+    border-radius: 15px;
+}
+
+.vitoria{
+    background-color:  #326b6e;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 100%
+}
