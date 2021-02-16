@@ -1,4 +1,4 @@
-# LM3
+# LabMM3
 
 ## **Projeto Final de Grupo - Laboratório de Multimédia 3 - NTC**
 
